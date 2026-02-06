@@ -9,7 +9,7 @@
 - 支持下载二维码为 PNG 图片
 - 支持回车键快速生成
 
-##线上使用：https://josiczhou.github.io/link2qrcode/
+## 线上使用：https://josiczhou.github.io/link2qrcode/
 ## 本地使用
 
 用浏览器直接打开 `index.html`，或使用本地服务器：
